@@ -1,3 +1,9 @@
 heii
 
 added new line from amend branch
+
+use `git commit --amend` for modifying last commit
+it will open text editor for ya
+chnage the name and boom
+and lastly use `git push --force`
+and don't worry no new commit will be added and it's not forced push but it's forced update so do it whenever you need to modify your commit msg name and we don't know yet about any specified commit just not last commit so find it.
