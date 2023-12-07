@@ -1,3 +1,6 @@
 first commit in squash branch.
 second push.
 third commit.
+
+git rebase -i HEAD~(N) a number of how much commits you want to squash
+git push origin squash --force
