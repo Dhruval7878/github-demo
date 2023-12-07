@@ -1,0 +1,3 @@
+first commit in squash branch.
+second push.
+third commit.
